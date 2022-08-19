@@ -1,9 +1,5 @@
-On branch master
-Your branch is up to date with 'origin/master'.
-
-Changes not staged for commit:
-  (use "git add <file>..." to update what will be committed)
-  (use "git restore <file>..." to discard changes in working directory)
-	modified:   README.md
-
-no changes added to commit (use "git add" and/or "git commit -a")
+👋 Hi, I’m @MoshTeach64
+👀 I’m interested in becoming a software engineer
+🌱 I’m currently learning HTML CSS JavaScript Ruby and c programming
+💞️ I’m looking to collaborate on any of the above language
+📫 How to reach me moshteach@gmail.com
